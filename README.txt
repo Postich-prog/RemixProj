@@ -28,7 +28,7 @@ For now, modules supported by Remix are ethers, web3, swarmgw, chai, multihashes
 For unsupported modules, an error like this will be thrown: '<module_name> module require is not supported by Remix IDE' will be shown.
 
 
-##Payments.sol
+###Payments.sol
 This is a Solidity smart contract written in Ethereum programming language. This particular contract allows for the creation of payments with associated metadata (amount, timestamp, sender address, and message) to be stored on the blockchain. 
 
 Here's an explanation of each section:
